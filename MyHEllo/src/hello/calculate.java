@@ -8,6 +8,7 @@ public class calculate {
 		int num=10;
 		int num1=20;
 		int sum=num+num1;
+		String str="come on";
 
 	}
 
